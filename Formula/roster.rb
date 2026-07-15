@@ -1,8 +1,8 @@
 class Roster < Formula
   desc "Terminal multiplexer for Claude Code"
   homepage "https://github.com/zidankazi/roster"
-  url "https://github.com/zidankazi/roster/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "7eae5abe93056df5cf7cd5e6390e38918ffc38fddaee72473c1099071625cd6d"
+  url "https://github.com/zidankazi/roster/archive/refs/tags/v0.0.2.tar.gz"
+  sha256 "6409c6ad87069d76b9f83fd7e62f973922069ecf775ecbec7fe8846115354826"
   license "GPL-3.0-only"
   head "https://github.com/zidankazi/roster.git", branch: "main"
 
